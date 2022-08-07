@@ -13,7 +13,6 @@ export default function App() {
           <a
             href="https://www.delac.io/"
             target="_blank"
-            rel="noopener noreferrer"
           >
             Anna Kokozei
           </a>{" "}
@@ -21,15 +20,13 @@ export default function App() {
           <a
             href="https://github.com/AnnKoko/r-weather-app"
             target="_blank"
-            rel="noopener noreferrer"
           >
             open-sourced on GitHub
           </a>{" "}
           and{" "}
           <a
-            href="https://suspicious-beaver-111c4d.netlify.com/"
+            href="https://master--sensational-pegasus-bda3c4.netlify.app/"
             target="_blank"
-            rel="noopener noreferrer"
           >
             hosted on Netlify
           </a>
